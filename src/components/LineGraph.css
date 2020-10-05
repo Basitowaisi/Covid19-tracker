@@ -1,0 +1,16 @@
+.lineGraph {
+    height: 400px;
+  }
+
+.lineGraph__heading {
+  font-size: 23px;
+  margin: 20px;
+  text-align: center;
+  margin-top: 0;
+}
+
+@media (max-width: 599px) {
+  .lineGraph {
+    height: 200px;
+  }
+}
